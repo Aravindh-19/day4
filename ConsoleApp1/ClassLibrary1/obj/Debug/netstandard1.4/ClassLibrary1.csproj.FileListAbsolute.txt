@@ -1,0 +1,6 @@
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb

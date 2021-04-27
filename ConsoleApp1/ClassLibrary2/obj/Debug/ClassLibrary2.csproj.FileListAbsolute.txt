@@ -1,0 +1,5 @@
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day4\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
